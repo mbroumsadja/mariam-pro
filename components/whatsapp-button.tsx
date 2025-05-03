@@ -4,7 +4,7 @@ import { Phone } from "lucide-react"
 
 export default function WhatsAppButton() {
   const openWhatsApp = () => {
-    window.open("https://wa.me/+1234567890?text=Je%20veux%20commander", "_blank")
+    window.open("https://wa.me/+237696708891?text=Je%20veux%20commander", "_blank")
   }
 
   return (
